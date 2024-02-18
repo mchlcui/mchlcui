@@ -1,4 +1,6 @@
 # 💫 About Me:
+Hi! I am Michael, a third-year computer science and business student at The University of British Columbia.
+
 I'm working on a sports analytics application at SportsPort as a Full-Stack Engineer Intern. In addition, I am also the lead developer at UBC BizChina, working on a task management tool using Node.js, React.js, and Typescript. I am passionate about all things technology and hope to contribute to integrating the world of technology and business.   
 
 When not coding, I like to play basketball and explore all types of food in Vancouver!
