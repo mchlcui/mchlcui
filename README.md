@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi! I am Michael, a third-year computer science and business student at The University of British Columbia.
+Hi! I am Michael, a fourth-year computer science and business student at The University of British Columbia.
 
-I will be at AWS this summer, working on distributed databases. I have previously interned at Pocketed Grant Platform as a Software Developer, where I created an application to improve the web tracking system. In addition, I am also the lead developer at UBC BizChina, leading a team of 6 developers and working on a task management tool using Node.js, React.js, and Typescript. I am passionate about all things technology and hope to contribute to integrating the world of technology and business.   
+I worked on an unreleased serverless distributed database at AWS as a Software Engineer Intern. I am passionate about backend development and enjoy solving complex problems.
 
 When not coding, I like to play basketball and explore all types of food in Vancouver!
 
